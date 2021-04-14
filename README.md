@@ -8,7 +8,7 @@ The exercise has three prompts. Each one has a set of questions or task for you 
 
 ### Prompt 1
 
-You are trying to sell copies of the book, Journey from A to Z with Teacher Judy. You are tasked with targeting a social media influencer. Here are some questions for you:
+You are trying to sell copies of the book, [Journey from A to Z with Teacher Judy](https://teacherjudy.com/). You are tasked with targeting a social media influencer. Here are some questions for you:
 
 -   Who do you target and why?
     
