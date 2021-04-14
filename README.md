@@ -23,7 +23,7 @@ You are trying to sell copies of the book, [Journey from A to Z with Teacher Jud
 
 ### Prompt 2
 
-You are tasked with going into a bookstore with the end goal of figuring out how to get the book on their shelves. Here are some questions for you:
+You are tasked with going into a bookstore with the end goal of figuring out how to get [the book](https://teacherjudy.com/) on their shelves. Here are some questions for you:
 
 -   How would you pick the bookstore? And why do you pick them?
     
