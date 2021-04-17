@@ -50,8 +50,10 @@ For this task, you can use this as a response template
 You are welcome to send your answers to the exercises as a PDF, or some other form of a presentation — however you’d like to share your responses.
 
 ### Time Allocation
-
 Typically candidates will be able to complete this in approximately 1-4 hours.
+
+### Deadline
+Please return your response within 7-10 days. 
 
 ### Submitting Your Work
 You can submit your work to [alex@tandybooks.com](mailto:alex@tandybooks.com). I look forward to reviewing it!!
