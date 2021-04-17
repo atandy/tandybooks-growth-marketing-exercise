@@ -3,7 +3,7 @@ Take-home exercise for Growth/Marketing Position at Tandy Books
  
 # Exercise Summary
 
-The exercise has three prompts. Each one has a set of questions or task for you to complete. A section providing guidance on the deliverables/submissions is also below. 🙂
+The exercise has three prompts, and you are asked to complete all three of them. Each prompt has a set of questions or task for you to complete. A section providing guidance on the deliverables/submissions is also below. 🙂
 
 
 ### Prompt 1
