@@ -53,7 +53,7 @@ You are welcome to send your answers to the exercises as a PDF, or some other fo
 Typically candidates will be able to complete this in approximately 1-4 hours.
 
 ### Deadline
-Please return your response within 7-10 days. 
+Please return your response within 7-10 days. (This is so I can keep moving the process forward in a timely manner.)
 
 ### Submitting Your Work
 You can submit your work to [alex@tandybooks.com](mailto:alex@tandybooks.com). I look forward to reviewing it!!
